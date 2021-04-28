@@ -1,0 +1,19 @@
+
+
+.buttonAddPost {
+    margin: 10px;
+    font-family: Monaco;
+    font-size: large;
+    font-style: oblique;
+    color: maroon;
+    font-style: unset;
+    background-color: khaki;
+}
+
+.postsBlock {
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 10px;
+}

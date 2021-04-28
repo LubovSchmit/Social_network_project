@@ -1,0 +1,16 @@
+
+
+.dialog a {
+    color: maroon;
+    text-decoration: none;
+}
+
+.dialog a.activeLink {
+
+    color: orangered;
+}
+
+
+
+
+

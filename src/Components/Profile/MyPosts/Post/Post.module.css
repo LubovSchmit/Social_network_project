@@ -1,0 +1,17 @@
+
+.item {
+color: maroon;
+}
+
+.item img {
+    padding: 10px;
+    width: 130px;
+    height: 80px;
+    border-radius: 30px;
+}
+
+.like {
+    padding: 20px;
+    font-size: small;
+    font-family: "Arial Black";
+}
