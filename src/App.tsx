@@ -15,7 +15,7 @@ type AppPropsType = {
 }
 
 
-function App(props: AppPropsType) {
+function App (props: AppPropsType) {
     return (
             <div className={s.appwrapper}>
                 <Header/>

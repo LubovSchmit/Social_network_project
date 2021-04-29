@@ -4,7 +4,7 @@ import s from './Header.module.css';
 function Header() {
     return (
         <header className={s.header}>
-            <img
+           hey <img
                 src='http://gaku.ru/lessons/kanji_foto/049_s.jpg'/>
         </header>
     );
